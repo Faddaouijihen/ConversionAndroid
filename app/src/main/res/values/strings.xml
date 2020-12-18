@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversions</string>
+    <string name="conversionTitre">Conversion de Monnaie</string>
+    <string name="conversionHint"> Taper la somme à convertir</string>
+    <string name="conversionRadio01">Euro To Dt</string>
+    <string name="conversionRadio02">Dt To Euro</string>
+    <string name="conversionButton">Convertir</string>
+    <string name="conversionResulat">Resulat</string>
+</resources>
